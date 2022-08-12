@@ -77,12 +77,12 @@ body {
 }
 
 .projeto-item a {
-  color: #1c1c1c;
-  text-decoration: none;
+  color: #191970;
 }
 
 .site-projeto:hover {
-  color: #191970;
+  color: #000000;
+  font-size: 28px;
 	text-decoration: underline;
 }
 
